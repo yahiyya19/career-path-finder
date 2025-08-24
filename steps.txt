@@ -1,0 +1,38 @@
+1. we created backend and frontend folder
+
+2. we went in that respective folder 
+# cd backend
+# cd frontend
+
+------------------------backend-------------------------------
+3. Initialize the backend
+# npm Init
+
+4. Install Express
+# npm i express
+
+5. Create index.js file
+
+
+
+
+---------------------------frontend----------------------------------
+6. Install basic react app and follow steps
+# npx create-next-app 
+
+√ What is your project named? ... career
+√ Would you like to use TypeScript? ... Yes
+√ Which linter would you like to use? » ESLint
+√ Would you like to use Tailwind CSS? ... Yes
+√ Would you like your code inside a `src/` directory? ... Yes
+√ Would you like to use App Router? (recommended) ... Yes
+√ Would you like to use Turbopack? (recommended) ... No
+√ Would you like to customize the import alias (`@/*` by default)? ... No 
+
+7. Move all the files 
+
+8. Start the frontend server
+# npm run dev
+
+if not working then do
+# npm i
